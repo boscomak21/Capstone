@@ -1,0 +1,4 @@
+% Orbital Parameters
+
+r_GEO = 42164; % GEO altitude
+m_Earth = 5.972*10^24; % 
