@@ -1,0 +1,32 @@
+Mass properties of GEO-DUDe
+     Configuration: Default
+     Coordinate system: -- default --
+
+Mass = 9891018.75 grams
+
+Volume = 9891018747.85 cubic millimeters
+
+Surface area = 297752447.51  square millimeters
+
+Center of mass: ( millimeters )
+    X = 910.78
+    Y = -684.02
+    Z = 720.25
+
+Principal axes of inertia and principal moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass.
+     Ix = ( 0.00,  1.00,  0.00)       Px = 20476637063889.33
+     Iy = (-0.17,  0.00,  0.99)       Py = 553749996974269.75
+     Iz = ( 0.99,  0.00,  0.17)       Pz = 562889686193385.00
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass and aligned with the output coordinate system. (Using positive tensor notation.)
+    Lxx = 562619702644222.56    Lxy = 269854356244.66    Lxz = -1547142939149.87
+    Lyx = 269854356244.66    Lyy = 20476785221942.67    Lyz = -85150984735.35
+    Lzx = -1547142939149.87    Lzy = -85150984735.35    Lzz = 554019832365380.25
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the output coordinate system. (Using positive tensor notation.)
+    Ixx = 572378685431855.25    Ixy = -5892197753846.22    Ixz = 4941299493782.71
+    Iyx = -5892197753846.22    Iyy = 33812724319462.89    Iyz = -4958150429669.91
+    Izx = 4941299493782.71    Izy = -4958150429669.91    Izz = 566852531273745.00
